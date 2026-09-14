@@ -1,0 +1,13 @@
+{
+  "schema": "canary-config-v1",
+  "wallet": "REPLACE_WITH_YOUR_PUBLIC_PRL1_PAYOUT_ADDRESS",
+  "worker": "rig_1",
+  "pools": [
+    "kryptex"
+  ],
+  "devices": [
+    {
+      "index": 0
+    }
+  ]
+}

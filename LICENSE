@@ -1,0 +1,94 @@
+CanaryMiner Binary License 1.0
+
+Copyright (c) 2026 the CanaryMiner copyright holder. All rights reserved.
+
+This license applies to the proprietary CanaryMiner executable files and
+documentation in the release package (the "Software"). Third-party components
+included with the Software remain governed by their own licenses and notices.
+
+1. Permission to use
+
+Subject to these terms, the copyright holder grants you a limited,
+non-exclusive, revocable, non-transferable license to install and run an
+official, unmodified copy of the Software on computers that you own or control
+for lawful Pearl mining. You may make reasonable backup copies for that use.
+No purchase price or subscription is charged for this binary-use license.
+
+2. Developer fee
+
+The Software includes a disclosed 1% developer fee. It targets a 99:1
+allocation of productive device-mining time between the user's configured
+public Pearl payout address and this developer payout address:
+
+prl1pr2530rjgquj97eff32j5pzlfw4qzkasl0t0acdx4hc5k498j770qjmzcuz
+
+Startup and idle time are excluded from that accounting basis. The fee does
+not promise an exact percentage of uptime, submitted or accepted shares,
+rewards, or earnings. You may stop using the Software at any time. You may not
+disable, evade, redirect, or tamper with the developer fee or its accounting.
+
+3. Restrictions
+
+Except where applicable law expressly requires otherwise, you may not:
+
+* modify, patch, translate, adapt, or create derivative works of the
+  proprietary Software;
+* reverse engineer, decompile, disassemble, or attempt to obtain its
+  proprietary source code;
+* remove or alter integrity checks, ownership controls, notices, attribution,
+  or developer-fee behavior;
+* sublicense, sell, rent, lease, host as a service, or redistribute the
+  Software or any part of it; or
+* use the Software or its name in a way that falsely implies endorsement or an
+  official CanaryMiner release.
+
+No trademark rights or proprietary source-code rights are granted.
+
+4. Third-party material
+
+The THIRD_PARTY_NOTICES directory identifies third-party material distributed
+with the Software. Its license terms apply directly to that material. Nothing
+in this license limits rights that a third-party license grants you or imposes
+restrictions that its license forbids. When a third-party license requires
+source, an offer, notices, or other materials, those items are supplied or
+identified with the applicable release.
+
+5. Updates and support
+
+The copyright holder has no obligation to provide maintenance, updates,
+support, pool compatibility, or continued availability. A later release may
+use different terms; those terms do not retroactively change the license for a
+copy already received under this version.
+
+6. Disclaimer of warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND
+WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
+UNINTERRUPTED OPERATION, COMPATIBILITY, POOL ACCEPTANCE, PERFORMANCE,
+PROFITABILITY, OR INCOME.
+
+7. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS
+WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, REWARDS, DATA, USE, OR
+GOODWILL, ARISING FROM OR RELATED TO THE SOFTWARE. WHERE LIABILITY CANNOT BE
+EXCLUDED, TOTAL LIABILITY WILL NOT EXCEED THE AMOUNT YOU PAID DIRECTLY FOR THE
+SOFTWARE, IF ANY.
+
+8. Termination
+
+This license terminates automatically if you materially breach these terms.
+Upon termination, you must stop using and delete the proprietary Software and
+its backup copies. Sections that by their nature should survive termination,
+including restrictions, disclaimers, liability limits, and third-party terms,
+continue to apply.
+
+9. Entire terms and severability
+
+These terms and the applicable third-party notices are the complete license
+for the release package. If a provision is unenforceable, it will be limited
+to the minimum extent necessary and the remaining provisions will continue in
+effect. No waiver is effective unless made in writing by the copyright holder.
+
